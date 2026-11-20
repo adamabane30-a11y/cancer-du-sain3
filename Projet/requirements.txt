@@ -1,0 +1,7 @@
+# Versions identiques à l'environnement de développement (le modèle joblib
+# dépend de la version de scikit-learn). Python 3.12 conseillé.
+streamlit==1.66.0
+pandas==3.0.6
+scikit-learn==1.9.1
+joblib==1.6.0
+numpy==2.5.4
